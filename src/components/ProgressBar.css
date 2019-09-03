@@ -1,0 +1,25 @@
+.statistics-container {
+  margin-top: -70px;
+  line-height: 15px;
+  margin-bottom: 50px;
+}
+
+.progress-bar {
+  width: 400px;
+  height: 30px;
+  border: 2px solid rgb(65, 65, 65);
+  border-radius: 80px;
+  margin: auto;
+}
+
+h2 {
+  font-family: 'Quicksand', sans-serif;
+  color: rgb(77, 149, 83);
+}
+
+.filler {
+  background-color: rgb(97, 199, 230);
+  height: 100%;
+  border-radius: inherit;
+  transition: width .2s ease-in;
+}

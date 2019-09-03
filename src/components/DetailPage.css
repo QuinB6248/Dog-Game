@@ -1,0 +1,12 @@
+img {
+  max-width: 500px;
+  max-height: 500px;
+  padding: 10px;
+  margin: auto;
+  cursor: pointer;
+}
+
+.index {
+  color: rgb(70, 150, 123);
+  text-decoration: underline;
+}
