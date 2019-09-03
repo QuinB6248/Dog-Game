@@ -1,3 +1,7 @@
+#  DOG-QUIZ 
+## [ Check out the deployed version here! ](https://loving-bartik-085219.netlify.com)
+
+
 ## What this project is about
 This was a group assignment in week 4 of Codaisseur. It is a React/Redux project for a simple but fun quiz about dog breeds. 
 
