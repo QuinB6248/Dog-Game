@@ -1,5 +1,5 @@
-#  DOG-QUIZ 
-## [ Check out the deployed version here! ](https://loving-bartik-085219.netlify.com)
+##  DOG-QUIZ 
+### [ Check out the deployed version here! ](https://loving-bartik-085219.netlify.com)
 
 
 ## What this project is about
